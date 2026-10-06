@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Interpretation
+LSTM_Baseline,98.88,91.67,91.67,91.67,99.95,Selected final model
+LSTM_Attention,98.88,91.67,91.67,91.67,99.95,No measurable improvement over baseline
+LSTM_GRL,92.18,46.15,100.0,63.16,99.9,Lower precision/F1 despite 100% recall

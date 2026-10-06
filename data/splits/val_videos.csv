@@ -1,0 +1,8 @@
+split,video_name,total_frames,not_drowsy_frames,drowsy_frames,usable_sequences,not_drowsy_sequences,drowsy_sequences,has_drowsy,has_usable_sequences
+validation,P1042757_720,3417,3129,288,71,70,1,True,True
+validation,P1042772_720,2864,2060,804,49,34,15,True,True
+validation,P1043080_720,285,285,0,8,8,0,False,True
+validation,P1043118_720,338,338,0,0,0,0,False,False
+validation,P1043119_720,294,294,0,0,0,0,False,False
+validation,P1043121_720,367,367,0,0,0,0,False,False
+validation,P1043133_720,422,408,14,0,0,0,False,False

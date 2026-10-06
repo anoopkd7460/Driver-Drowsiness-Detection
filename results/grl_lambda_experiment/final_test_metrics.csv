@@ -1,0 +1,2 @@
+model,selected_lambda,best_validation_f1,best_validation_loss,best_epoch,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc,true_negative,false_positive,false_negative,true_positive
+LSTM_GRL,0.1,0.9696969696969697,0.6534154415130615,7,0.9217877094972067,0.46153846153846156,1.0,0.631578947368421,0.999001996007984,153,14,0,12

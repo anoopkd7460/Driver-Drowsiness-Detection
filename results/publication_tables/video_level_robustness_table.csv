@@ -1,0 +1,5 @@
+Metric,Mean,Std,Minimum,Maximum
+Accuracy,98.11,2.16,95.35,100.0
+Precision,93.59,6.52,84.62,100.0
+Recall,97.19,3.96,91.67,100.0
+F1-Score,95.32,5.08,88.0,100.0

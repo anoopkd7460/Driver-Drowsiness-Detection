@@ -1,0 +1,2 @@
+video_name,evaluations,total_sequences,total_drowsy_sequences,mean_accuracy,std_accuracy,min_accuracy,max_accuracy,mean_drowsy_recall
+P1042756_720,2,86,6,0.9767441860465116,0.03288868749704878,0.9534883720930232,1.0,1.0

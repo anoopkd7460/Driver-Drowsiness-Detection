@@ -1,0 +1,4 @@
+split,videos,videos_with_drowsy_sequences,usable_sequences,not_drowsy_sequences,drowsy_sequences
+train,31,8,395,338,57
+validation,7,2,128,112,16
+test,6,1,179,167,12

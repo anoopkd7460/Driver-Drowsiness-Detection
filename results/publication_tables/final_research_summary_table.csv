@@ -1,0 +1,19 @@
+Category,Result
+Final Model,LSTM Baseline
+Input Features,EAR Mean + Pitch + Yaw + Roll
+Sequence Length,30 frames
+Frame Rate,25 FPS
+Temporal Duration,1.2 seconds
+Official Test Sequences,179
+Official Test Accuracy,98.88%
+Official Test Precision,91.67%
+Official Test Recall,91.67%
+Official Test F1-Score,91.67%
+Official Test ROC-AUC,99.95%
+True Negatives,166
+False Positives,1
+False Negatives,1
+True Positives,11
+Repeated Video-Level Accuracy,98.11% ± 2.16%
+Repeated Video-Level Recall,97.19% ± 3.96%
+Repeated Video-Level F1,95.32% ± 5.08%

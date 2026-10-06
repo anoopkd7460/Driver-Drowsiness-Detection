@@ -1,0 +1,7 @@
+split,video_name,total_frames,not_drowsy_frames,drowsy_frames,usable_sequences,not_drowsy_sequences,drowsy_sequences,has_drowsy,has_usable_sequences
+test,P1042756_720,2455,2156,299,39,39,0,False,True
+test,P1042787_720,3110,2951,159,77,77,0,False,True
+test,P1042797_720,2962,2056,906,53,41,12,True,True
+test,P1043079_720,370,370,0,10,10,0,False,True
+test,P1043130_720,148,148,0,0,0,0,False,False
+test,P1043134_720,336,336,0,0,0,0,False,False

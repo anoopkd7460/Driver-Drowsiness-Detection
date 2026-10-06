@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib

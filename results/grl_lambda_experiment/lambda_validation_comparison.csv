@@ -1,0 +1,5 @@
+lambda,best_epoch,best_val_f1,best_val_loss,model_path
+0.1,7,0.9696969696969697,0.6534154415130615,D:\Minor Project\Driver_Drowsiness_Detection\models\grl_lambda_experiment\lstm_grl_lambda_0.10.keras
+0.05,7,0.9142857142857143,0.6536090970039368,D:\Minor Project\Driver_Drowsiness_Detection\models\grl_lambda_experiment\lstm_grl_lambda_0.05.keras
+0.2,6,0.8648648648648649,0.65400630235672,D:\Minor Project\Driver_Drowsiness_Detection\models\grl_lambda_experiment\lstm_grl_lambda_0.20.keras
+0.01,5,0.6666666666666666,0.6535061001777649,D:\Minor Project\Driver_Drowsiness_Detection\models\grl_lambda_experiment\lstm_grl_lambda_0.01.keras

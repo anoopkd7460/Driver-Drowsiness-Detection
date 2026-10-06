@@ -1,0 +1,2 @@
+model,best_epoch,domain_loss_weight,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc,true_negative,false_positive,false_negative,true_positive
+LSTM_GRL,10,0.1,0.9664804469273743,0.6875,0.9166666666666666,0.7857142857142857,0.9950099800399201,162,5,1,11
